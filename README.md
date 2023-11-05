@@ -7,9 +7,9 @@
 
 ## Work Experience
 **Freelance Data Scientist(_January 2023 - Present_)**
+- Consulted local non-profit organizations and analyzed historical donor-giving trends, resulting in more efficient advertising campaigns and identification of donors most likely to convert into monthly donors
 - Leveraged principal component analysis (PCA) to determine customer segments, distinguishing characteristics of donors who provide larger than average annual donation
-- Developed monitoring dashboards for anomaly detection in transactional data
-- Authored comprehensive documentation and provided training to clients on how to effectively utilize the monitoring dashboards
+- Developed comprehensive documentation and provided training to clients on how to effectively utilize and interpret the monitoring dashboards for anomaly detection in transaction data
 
 **Data Analyst @ HAVEN IAQ (_September 2022 - October 2023_)**
 - Developed a tree-based predictive model using physics-informed feature engineering for event detection in HVAC systems, resulting in a 31% improvement in accuracy over the previous model.
@@ -18,7 +18,7 @@ positive rate and mitigating the risk of future product recalls
 
 **Data Analyst, Co-op @ HAVEN IAQ (_May 2022 - August 2022_)**
 - Conducted data collection, processing, and analysis for evaluating the impact of a new product's mechanical design on temperature, airflow, and pressure sensors
-- Utilized PySpark via a local compute cluster to process data from various databases for machine learning pipelines and ad-hoc requests as required by stakeholders.
+- Utilized PySpark via a local compute cluster to process data from various databases for machine learning pipelines and ad-hoc requests as required by stakeholders
 
 **Research Technician, Co-op @ 4D LABS (_Sept 2019 - August 2020_)**
 - Provided scientists with ad-hoc analyses using microscopy and image-processing techniques
