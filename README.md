@@ -12,7 +12,7 @@
 - Developed comprehensive documentation and provided training to clients on how to effectively utilize and interpret the monitoring dashboards for anomaly detection in transaction data
 
 **Data Analyst @ HAVEN IAQ (_September 2022 - October 2023_)**
-- Developed a tree-based predictive model using physics-informed feature engineering for event detection in HVAC systems, resulting in a 31% improvement in accuracy over the previous model.
+- Developed a tree-based predictive model using physics-informed feature engineering for event detection in HVAC systems, resulting in a 31% improvement in accuracy over the previous model
 - Devised test plans to validate an asset fault-detection engine, leading to a 9% reduction in false 
 positive rate and mitigating the risk of future product recalls
 
