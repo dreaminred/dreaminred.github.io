@@ -2,13 +2,14 @@
 
 #### Technical Skills: Python, SQL, MATLAB, C++, Docker, Apache Spark
 
-## Education		        		
-- B.S., Physics | Simon Fraser University (_December 2023_)
+## Education	
+- B.A.Sc., Computer Engineering | Simon Fraser University (_in progress_)
+- B.S., Physics | Simon Fraser University (_December 2022_)
 
 ## Work Experience
 **Freelance Data Scientist (_January 2023 - Present_)**
 - Consulted local non-profit organizations and analyzed historical donor-giving trends, resulting in more efficient advertising campaigns and identification of donors most likely to convert into monthly donors
-- Leveraged principal component analysis (PCA) to determine customer segments, distinguishing characteristics of donors who provide larger than average annual donation
+- Leveraged principal component analysis (PCA) to determine customer segments, distinguishing characteristics of customers who spend larger than the average spend per customer
 - Developed comprehensive documentation and provided training to clients on how to effectively utilize and interpret the monitoring dashboards for anomaly detection in transaction data
 
 **Data Analyst @ HAVEN IAQ (_September 2022 - October 2023_)**
