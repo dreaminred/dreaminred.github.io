@@ -3,7 +3,6 @@
 #### Technical Skills: Python, SQL, MATLAB, C++, Docker, Apache Spark
 
 ## Education	
-- B.A.Sc., Computer Engineering | Simon Fraser University (_in progress_)
 - B.S., Physics | Simon Fraser University (_December 2022_)
 
 ## Work Experience
