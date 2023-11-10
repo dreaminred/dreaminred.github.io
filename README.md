@@ -15,7 +15,7 @@ positive rate and mitigating the risk of future product recalls
 - Conducted data collection, processing, and analysis for evaluating the impact of a new product's mechanical design on temperature, airflow, and pressure sensors
 - Utilized PySpark via a local compute cluster to process data from various databases for machine learning pipelines and ad-hoc requests as required by stakeholders
 
-**Research Technician, Co-op @ 4D LABS (_Sept 2019 - August 2020_)**
+**Research Technician, Co-op @ 4D LABS (_September 2019 - August 2020_)**
 - Provided scientists with ad-hoc analyses using microscopy and image-processing techniques
 - Implemented an automation system for ingesting client data and storing it to the cloud
 
