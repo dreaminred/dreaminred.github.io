@@ -8,7 +8,7 @@
 ## Work Experience
 **Data Analyst @ HAVEN IAQ (_September 2022 - October 2023_)**
 - Developed a tree-based predictive model using physics-informed feature engineering for event detection in HVAC systems, resulting in a 31% improvement in accuracy over the previous model
-- Devised test plans to validate an asset fault-detection engine, leading to a 9% reduction in false 
+- Devised test plans to validate a sensor fault-detection engine, leading to a 9% reduction in false 
 positive rate and mitigating the risk of future product recalls
 
 **Data Analyst, Co-op @ HAVEN IAQ (_May 2022 - August 2022_)**
