@@ -1,5 +1,7 @@
 title: Armin Hatami
 logo: /assets/img/headshot_circular2.png
-#description: text below image
+# Description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
+# Google Analytics
+google_analytics: G-BMYTZ3CT80
