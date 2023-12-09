@@ -24,3 +24,8 @@ positive rate and mitigating the risk of future product recalls
 - Consulted local non-profit organizations and analyzed historical donor-giving trends, resulting in more efficient advertising campaigns and identification of donors most likely to convert into monthly donors
 - Leveraged principal component analysis (PCA) to determine customer segments, distinguishing characteristics of customers who spend larger than the average spend per customer
 - Developed comprehensive documentation and provided training to clients on how to effectively utilize and interpret the monitoring dashboards for anomaly detection in transaction data
+
+## Datasets
+**Barstool One Bite Pizza Ratings
+- [Link](https://github.com/dreaminred/barstool-pizza/blob/main/data/pizza_data2.csv)
+- Last updated: December 4th, 2023
